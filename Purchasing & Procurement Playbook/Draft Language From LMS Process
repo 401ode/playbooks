@@ -1,0 +1,31 @@
+Draft Language From LMS Process
+Skip to end of metadata
+Created by Ryan Kelly, last modified on Jan 27, 2017 Go to start of metadata
+Lightweight Directory Access Protocol /Active Directory Integration
+The State will give due consideration to solutions who allow for Single-Sign On (SSO) for State users via the State’s existing Azure Active Directory (Office 365) infrastructure. This SSO functionality can be achieved using SAML 2.0, WS-Federation, or OpenID connection protocols. However, not all prospective users of the solution will be State employees. As such, the solution should provide an alternative authentication mechanism for non-state users (e.g. contractors). Offerors should clearly define their login and account maintenance models for these non-State users in any responses (i.e. options for multi-factor authentication, “no password” secure authentication, encryption standards for credentials, etc.).
+Accessibility
+The platform must be in compliance with the accessibility principles of Section 508 of the Federal Rehabilitation Act and the standards documented in the World Wide Web Consortium’s Web Content Authoring Guidelines, Version 2, Level AA (WCAG2 Standards). 
+Towards that end, accessibility considerations should be built into every phase of the project.  Accessibility tests should be conducted before delivery and include testing results with all deliverables.
+Multi-Channel Compatibility
+The solution must allow users to complete transactions via multiple channels. For example, a learner must be able to access instruction material from their own home computer, tablet, or mobile device.
+Support mixed media
+Ideally, the solution will allow for mixed-media training options.  The solution should have the native ability to display a variety of video and media formats hosted either within the solution itself, on publicly-available services such as YouTube or Vimeo, or on a private storage solution such as the State may provide. The solution should provide an unlimited capacity for original instructor content in all media types, including video.
+Hosting
+Hosting requirements must assure that the State has a reliable, scalable, secure, and properly performing solution.  Cloud or web based hosting solutions are permissible.  The State will give due consideration to solutions that comply with the Federal Risk and Authorization Management Program (FedRAMP) requirements, as developed by the Federal Cloud Computing Initiative (FCCI) at the US General Services Administration (GSA) (https://www.fedramp.gov/). FedRAMP security controls and enhancements have been selected from the NIST SP 800-53 Revision 3 catalog of controls. FedRAMP requires that cloud computing services and systems offered by Cloud Service Providers (CSPs) meet specified security requirements.
+Multi-Agency Solution
+The solution must allow the State to provision new Departments, Divisions, Offices, etc. easily as separate organizational units, but allow for the sharing of content developed by one agency for use in another.
+State Owned Data
+Data, information, usage and other analytics, course collateral and media, and reports collected or prepared by the contractor as part of the project shall be deemed to be owned by the State.
+The State will be the sole owner of all source code and any software which is developed specifically for use in the application software provided to the State as a part of this contract.
+Data Governance and Integrations
+The solution should make it easy to a non-technical State user to define certain data elements that either individually or in aggregate totals should be reportable to the public. Data elements so identified should be immediately accessible via modern, RESTful, public Application Programming Interfaces (APIs). The solution’s security and authentication architecture should also permit the State to set up “system users” to access all solution data from other State systems.
+Non-Technical Solution Administration and Customization
+The solution should be sufficiently flexible and intuitive for non-developer State personnel to add customizations to it easily from time to time, including but not limited to additional fields to system objects such as users, courses, curricula, and certifications. Offerors, in their responses, should list what aspects of their solution are configurable in this manner.
+User History and Certification Curricula
+The solution should be able to track course commencement and completion dates for each user, as well as scores for each course taken. Scoring options per course should be flexible, so that a given course could be configured to be Pass/Fail, while another course configured to be scored via a percentage. In addition, courses should be able to be configured as curriculum components of a larger certification whole. Course and curriculum completion dates, along with the resultant issued certifications, should be able to be tracked for each user. Users should receive automated reminders [insert section on communication, emails, etc.] when their certifications are close to expiration. The certification curricula capabilities of the solution should be able to differentiate the course requirements for an initial certification as well as what may be slightly different course requirements for a re-certification or renewal.
+Simple and Intuitive User Experience
+The overall user experience should be simple and intuitively designed for all users.
+Easy User Orientation in Workflows
+Users should be able to easily figure out where in a given workflow they are. The platform should give visual representation of their progress throughout. If information in a given workflow is incomplete, the platform should highlight the exact fields that are incomplete or incorrect, with clear instructions for resolving any problems. 
+Save and Complete Later
+Users should have the ability to save their progress in a given workflow and return to it later. 

@@ -1,5 +1,11 @@
-# Purchasing and Procurement Playbook
+# playbooks
+State of RI Guides to Better Operations
 
+**Playbook Next Steps**
+*Identify books to be created
+*Discuss home for collboartion and communication (GitHUB, Medium Posts, Add to Websites, https://www.gitbook.com/)
+
+# Purchasing and Procurement Playbook
 Links
 
 [http://www.purchasing.ri.gov/StateAgencyInfoCenter/Navigation.aspx](http://www.purchasing.ri.gov/StateAgencyInfoCenter/Navigation.aspx "State Agency Info Center")
