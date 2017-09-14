@@ -1,8 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [IT Policy and Procudures](IT-Policies-and-Standards)
-* [Instructions and Notifications](chapter1.md)
+* [IT Policies and Standards](policies-standards)
 * [Electronic Procurement Software Solution Definitions](electronic-procurement-software-solution-definitions.md)
 * [Purchasing Playbook](purchasing-playbook.md)
 * [Digitization Playbook](digitization-playbook.md)
