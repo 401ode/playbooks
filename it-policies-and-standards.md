@@ -1,10 +1,10 @@
-\# Information Technology Policies and Standards
+# Information Technology Policies and Standards
 
-&gt; Collection of IT related policies and guidelines.  A searchable database of DOA/DoIT policies can be found \[here\]\([https://www.ri.gov/app/doa/policies/\](https://www.ri.gov/app/doa/policies/\)\).
+_Collection of IT related policies and guidelines.  A searchable database of DOA/DoIT policies can be found \[here\]\(_[_https://www.ri.gov/app/doa/policies/\_](https://www.ri.gov/app/doa/policies/%29\)_._
 
-&gt; Additional policies may be found on the operation site \[here\]\([http://operations.doit.ri.gov/policy/\](http://operations.doit.ri.gov/policy/\)\).
+_Additional policies may be found on the operation site \[here\]\(_[_http://operations.doit.ri.gov/policy/\_](http://operations.doit.ri.gov/policy/%29\)_._
 
-\#\#\# Project Management
+### Project Management
 
 * IT Project Approval - [https://rigov-policies.s3.amazonaws.com/IT\_01-02\_Information\_Technology\_Application\_Development\_Requirements\_Approval.pdf](https://rigov-policies.s3.amazonaws.com/IT_01-02_Information_Technology_Application_Development_Requirements_Approval.pdf)
 
@@ -22,7 +22,7 @@
 
 * Production Control - [https://rigov-policies.s3.amazonaws.com/IT\_01-03\_Information\_Technology\_Enhancements\_Move\_To\_Production\_Approval.pdf](https://rigov-policies.s3.amazonaws.com/IT_01-03_Information_Technology_Enhancements_Move_To_Production_Approval.pdf)
 
-\#\#\# Data
+### Data
 
 * Data Categorization - [https://rigov-policies.s3.amazonaws.com/IT\_05-02\_Data\_Categorization.pdf](https://rigov-policies.s3.amazonaws.com/IT_05-02_Data_Categorization.pdf)
 
@@ -38,7 +38,7 @@
 
 * USBs - [http://operations.doit.ri.gov/documents/techdocs/Technical Instruction  05-01.pdf](http://operations.doit.ri.gov/documents/techdocs/Technical Instruction  05-01.pdf)
 
-\#\#\# Networking
+### Networking
 
 * Operation Handbook - [http://operations.doit.ri.gov/documents/policies/Security/10-06 IT Security Handbook Operational Controls .pdf](http://operations.doit.ri.gov/documents/policies/Security/10-06 IT Security Handbook Operational Controls .pdf)
 
@@ -54,9 +54,9 @@
 
 * Social Networks - [http://operations.doit.ri.gov/documents/policies/Security/10-09 Policy on Social Networking.pdf](http://operations.doit.ri.gov/documents/policies/Security/10-09 Policy on Social Networking.pdf)
 
-\#\#\# Security
+### Security
 
-* Security Handbook - \([http://operations.doit.ri.gov/documents/policies/Security/10-05 IT Security Handbook Management Controls .pdf\](http://operations.doit.ri.gov/documents/policies/Security/10-05 IT Security Handbook Management Controls .pdf\)\) ; \([http://operations.doit.ri.gov/documents/policies/Security/10-07 Security Handbook Technical Controls.pdf\](http://operations.doit.ri.gov/documents/policies/Security/10-07 Security Handbook Technical Controls.pdf\)\)
+* Security Handbook - \([http://operations.doit.ri.gov/documents/policies/Security/10-05 IT Security Handbook Management Controls .pdf\](http://operations.doit.ri.gov/documents/policies/Security/10-05 IT Security Handbook Management Controls .pdf%29\) ; \([http://operations.doit.ri.gov/documents/policies/Security/10-07 Security Handbook Technical Controls.pdf\](http://operations.doit.ri.gov/documents/policies/Security/10-07 Security Handbook Technical Controls.pdf%29\)
 
 * Incidence Response - [https://rigov-policies.s3.amazonaws.com/IT\_10-12\_Incident\_Handling\_and\_Response\_Policy.pdf](https://rigov-policies.s3.amazonaws.com/IT_10-12_Incident_Handling_and_Response_Policy.pdf)
 
@@ -70,7 +70,7 @@
 
 * Active Directory Groups - [https://rigov-policies.s3.amazonaws.com/IT\_02-04\_Organizational\_Units\_Standards.pdf](https://rigov-policies.s3.amazonaws.com/IT_02-04_Organizational_Units_Standards.pdf)
 
-* Passwords - \([https://rigov-policies.s3.amazonaws.com/IT\_10-01\_Enterprise\_Password\_Security.pdf\](https://rigov-policies.s3.amazonaws.com/IT_10-01_Enterprise_Password_Security.pdf\)\) , \([http://operations.doit.ri.gov/documents/policies/Security/10-01 Enterprise Password Security.pdf\](http://operations.doit.ri.gov/documents/policies/Security/10-01 Enterprise Password Security.pdf\)\)
+* Passwords - \([https://rigov-policies.s3.amazonaws.com/IT\_10-01\_Enterprise\_Password\_Security.pdf\](https://rigov-policies.s3.amazonaws.com/IT_10-01_Enterprise_Password_Security.pdf%29\) , \([http://operations.doit.ri.gov/documents/policies/Security/10-01 Enterprise Password Security.pdf\](http://operations.doit.ri.gov/documents/policies/Security/10-01 Enterprise Password Security.pdf%29\)
 
 * Security Planning - [https://rigov-policies.s3.amazonaws.com/IT\_10-18\_Security\_Planning\_Policy.pdf](https://rigov-policies.s3.amazonaws.com/IT_10-18_Security_Planning_Policy.pdf)
 
@@ -82,20 +82,19 @@
 
 * Mail - [http://operations.doit.ri.gov/documents/download\_docs/userGuide.pdf](http://operations.doit.ri.gov/documents/download_docs/userGuide.pdf)
 
-\#\#\# Assessment
+### Assessment
 
 * Risk Assessment - [http://operations.doit.ri.gov/documents/policies/Security/10-25 Risk Assessment Policy.pdf](http://operations.doit.ri.gov/documents/policies/Security/10-25 Risk Assessment Policy.pdf)
 
 * ORR's Cost / Benefit Guidelines - [https://rigov-policies.s3.amazonaws.com/OMB\_Analyzing-Regulatory-Benefits-and-Costs.pdf](https://rigov-policies.s3.amazonaws.com/OMB_Analyzing-Regulatory-Benefits-and-Costs.pdf)
 
-\#\#\# Purchasing
+### Purchasing
 
 * Accounts and Control  - [http://controller.admin.ri.gov/Policies/index.php](http://controller.admin.ri.gov/Policies/index.php)
 
 * Division of Purchases  - [http://www.purchasing.ri.gov/rulesandregulations/rulesandregulations.aspx](http://www.purchasing.ri.gov/rulesandregulations/rulesandregulations.aspx)
 
-* 
-\#\#\# State/Federal Links
+* \#\#\# State/Federal Links
 
 * Maine: [http://www.maine.gov/oit/project\_management/method.shtml](http://www.maine.gov/oit/project_management/method.shtml)
 
@@ -103,13 +102,11 @@
 
 * 18F: [https://handbook.18f.gov/\#how-we-work](https://handbook.18f.gov/#how-we-work)
 
-\#\#\# Names
+### Names
 
 * ETSS Name Change: [http://webserver.rilin.state.ri.us/BillText/BillText16/HouseText16/H7454.pdf](http://webserver.rilin.state.ri.us/BillText/BillText16/HouseText16/H7454.pdf)
 
 * ODE Established: [http://webserver.rilin.state.ri.us/Statutes/TITLE42/42-11/42-11-2.6.HTM](http://webserver.rilin.state.ri.us/Statutes/TITLE42/42-11/42-11-2.6.HTM)
 
-\| Policy Number \| Date \|
 
-\| ------------- \| ---- \|
 
